@@ -1883,9 +1883,9 @@ containing a value of this type.
         public static final int activity_main2=0x7f04001b;
         public static final int bar_item=0x7f04001c;
         public static final int bottom_layout=0x7f04001d;
-        public static final int fragment_blank=0x7f04001e;
-        public static final int fragment_blank_fragment2=0x7f04001f;
-        public static final int fragment_blank_fragment3=0x7f040020;
+        public static final int fragment_first =0x7f04001e;
+        public static final int fragment_second =0x7f04001f;
+        public static final int fragment_third =0x7f040020;
         public static final int notification_media_action=0x7f040021;
         public static final int notification_media_cancel_action=0x7f040022;
         public static final int notification_template_big_media=0x7f040023;

@@ -24,9 +24,6 @@ public class TabBarActivity extends AppCompatActivity {
         viewPager = (ViewPager) findViewById(R.id.vp);
         tabBarIndicator = (TabBarIndicator) findViewById(R.id.tbi);
 
-
-
-
         final ArrayList<Fragment> mFragmentList = new ArrayList();
         mFragmentList.add(new BlankFragment());
         mFragmentList.add(new BlankFragment2());
